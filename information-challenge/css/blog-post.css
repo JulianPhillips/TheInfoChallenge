@@ -1,0 +1,17 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.post-content> p{
+    word-spacing: 8px;
+     font-family: 'Archivo Narrow';
+     font-size: 23px;
+     color:dimgray;
+    
+}
